@@ -1,2 +1,2 @@
 # firstapp
-My first app
+My first app - Wellington
